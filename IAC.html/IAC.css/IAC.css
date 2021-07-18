@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Yellowtail&display=swap');
+.bdy {
+    background: white;
+    
+    
+}
+h2 {
+    font-family: 'Raleway, monospace';
+    font-size: 25px;
+    text-align: center;
+    
+}
+.title{
+    text-align: center;
+    font-family: 'Raleway', monospace;
+    font-size: 75px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(-135deg,
+    #a40606, #d98324);
+   -webkit-background-clip: text;
+        background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.subtitle {
+    
+    text-align: center;
+    font-family: 'Raleway', monospace;
+    font-weight: lighter;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    
+   
+}
+#nav {
+    font-family: 'Raleway', monospace;
+    background: #66ff00;
+    margin: -10px;
+    background-image: url(https://atharvaayu.com/wp-content/uploads/2019/05/treatment-principles-846x405.jpg);
+    top: 0;
+    
+    
+}
+.navbar {
+    background-color:  #66ff00;
+   
+}
+.navbar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #66ff00;
+}
+.navbar a:hover {
+    background: linear-gradient(45deg, #80ff72, #7ee8fa);
+    color: black;
+}
+.navbar-right {
+    float: right;
+}
+
+.barnav a.active {
+    background-color: #04AA6D;
+    color: white;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+    font-size: 17px;
+    
+}
+li {
+    
+    display: inline-block;
+    padding: 1em;  
+    font-weight: bolder;
+    
+}
+.location {
+    text-decoration: none;
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+    font-size: 29px;
+}
+
+.location:visited {
+    color: magenta;
+}
